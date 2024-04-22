@@ -4,7 +4,7 @@
 **This Github folder serves as deposit for dotAstronomy 13 hackaton**
 
 ## Projects
-WIP
+The list of projects will be updated as we get closer to the Hackaton.
 
 ## Useful links
 - [Schedule](https://www.cosmos.esa.int/web/dotastronomy13/conference-programme)

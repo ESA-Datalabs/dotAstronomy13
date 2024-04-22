@@ -1,6 +1,6 @@
 # Your title here
 
-**Author1**, *Affiliation1, Country1 and Affiliation2, Country2*, Email
+**Author1**, *Affiliation1, Country1 and Affiliation2, Country2*, Email  
 **Author2**, *Affiliation, Country*, Email
 
 **Abstract:** Please provide a short summary of your project here.
@@ -8,10 +8,10 @@
 ***
 
 ### 1. Introduction
-Please add a description of your project, including your research goals or questions here.
+Please add a description of your project, including your goals or questions here.
 
 ### 2. Methodology
-Please provide an overview of your research approach and workflow.
+Please provide an overview of your approach and workflow.
 
 ### 3. Preliminary Findings
 Please describe your preliminary findings here.
