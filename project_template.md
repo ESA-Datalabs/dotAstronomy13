@@ -8,7 +8,7 @@
 ***
 
 ### 1. Introduction
-Please add a description of your project, including your goals or questions here.
+Please add a description of your project, including your goals or starting questions here.
 
 ### 2. Methodology
 Please provide an overview of your approach and workflow.
