@@ -24,6 +24,8 @@
 - **Getting started ML in astronomy** - Sandor Kruk
 - **Adding to the ESASky Virtual Assistant** - Debbie Baines
 - **Astro careers, networks, publication stats, etc.** - Iva Momcheva
+- **How to tailor outreach projects for marginalised communities** - Thendy Nomthendeleko Motha
+
 
 
 
