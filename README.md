@@ -1,4 +1,7 @@
+
+
 # dotAstronomy 13 
+![dotastro_background](dotastro_background.png)
 *23rd - 26th April 2024, European Space Astronomy Centre (ESAC), Madrid (SPAIN)*   
 
 **This Github folder serves as template for dotAstronomy 13 hackaton.**  
